@@ -29,15 +29,8 @@ public class Assignment1_CreateLead {
 		Select sec = new Select(state);
 		sec.selectByVisibleText("New York");
 		driver.findElement(By.name("submitButton")).click();
-		System.out.println(driver.getTitle()); 
-		if (driver.getTitle().contains("Lead"))
-		{
-			System.out.println("I confirm the title is correct");
-		}
-		else
-		{
-			System.out.println("The title is not correct");
-		}
+		System.out.println("The title of the page is :" +driver.getTitle()); 
+		
 		
 	}
 	
