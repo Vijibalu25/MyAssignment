@@ -1,0 +1,67 @@
+🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓
+Assignments week2.day2
+🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓
+Assignment:1
+FaceBook:
+================================
+// Step 1: Download and set the path 
+// Step 2: Launch the chromebrowser
+// Step 3: Load the URL https://en-gb.facebook.com/
+// Step 4: Maximise the window
+// Step 5: Add implicit wait
+// Step 6: Click on Create New Account button
+// Step 7: Enter the first name
+// Step 8: Enter the last name
+// Step 9: Enter the mobile number
+// Step 10: Enterthe password
+// Step 11: Handle all the three drop downs
+// Step 12: Select the radio button "Female" 
+            ( A normal click will do for this step) 
+
+Assignment:2
+==================================================
+
+https://github.com/TestLeafPages/SeleniumAssignments/tree/master/week2/day2.assignments
+   Complete all 4 assignments in this link
+        
+	   
+Assignment:3
+========================
+LeafGround Assignments
+*
+**Note : Kindly refer the video attached to do the following assignments
+TextBox
+=======
+https://www.leafground.com/input.xhtml
+1. Type your name
+2. Append Country to this City
+3. Verify if text box is disabled
+4. Clear the typed text
+5. Retrieve the typed text
+6. Type email and Tab. Confirm control moved to next element
+7. Type about yourself
+8. Text Editor
+9. Just Press Enter and confirm error message*
+10. Click and Confirm Label Position Changes
+11. Type your name and choose the third option
+12. Click and Confirm Keyboard appears
+13. Custom Toolbar
+
+Button
+======
+https://www.leafground.com/button.xhtml
+1. Click and Confirm title
+2. Confirm if the button is disabled
+3. Find the position of the Submit button
+
+DropDown
+========
+https://www.leafground.com/select.xhtml
+
+Checkbox
+=======
+https://www.leafground.com/checkbox.xhtml
+
+Radio
+=====
+https://www.leafground.com/radio.xhtml
