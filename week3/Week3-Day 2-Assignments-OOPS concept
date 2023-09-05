@@ -1,0 +1,45 @@
+🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓
+ASSIGNMENTS OOPs concept
+=============
+Week3 Day2 
+
+Assignment1
+============
+    Class     :BankInfo
+    Methods :saving(),fixed(),deposit()
+
+     Class     :AxisBank
+     Methods :deposit()
+
+Description:
+You have to override the method deposit in AxisBank.
+
+Assignment 2
+==============
+
+      Class: Students
+      Methods: getStudentInfo()
+
+Description: 
+Create multiple getStudentInfo() method by passing id argument alone, by id & name, by email & phoneNumber
+
+Arrays Assignment
+1.
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/mandatory/FindIntersection.java
+2.
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/classroom/arrays/PrintDuplicatesInArray.java
+3.
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/classroom/arrays/MissingElementInAnArray.java 
+4.
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/classroom/arrays/FindSecondLargest.java 
+
+Assignments String
+
+1.
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/mandatory/ChangeOddIndexToUpperCase.java
+2.
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/mandatory/Palindrome.java
+3.
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/mandatory/RemoveDuplicates.java
+4.
+https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/mandatory/ReverseEvenWords.java
